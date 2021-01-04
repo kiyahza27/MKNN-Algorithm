@@ -8,4 +8,4 @@ Algoritma MKNN merupakan sebuah algoritma perbaikan/turunan dari algoritma K - N
 ## Reference Paper Original:
 * Hamid Parvin, Hosein Alizadeh and Behrouz Minaei-Bidgoli. 2008. "MKNN: Modified K-Nearest Neighbor". Proceedings of the World Congress on Engineering and Computer Science 2008
 WCECS 2008, October 22 - 24, 2008, San Francisco, USA
-* [link paper original]()
+* [link paper original](https://github.com/kiyahza27/MKNN-Algorithm/blob/main/Paper%20Original%20MKNN.pdf)
