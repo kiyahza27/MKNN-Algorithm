@@ -1,6 +1,4 @@
-# Modified K-Nearest Neighbors (MKNN) Algorithm
-
-TEAM A:
+# TEAM A - Ilmu Komputer UNJ 2018:
 1. Zakiyah Hamidah (1313618017)
 2. Cindi Trifitikasari (1313618025)
 
