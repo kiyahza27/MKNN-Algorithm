@@ -3,7 +3,7 @@
 2. Cindi Trifitikasari (1313618025)
 
 # Modified K-Nearest Neighbors (MKNN)
-Algoritma MKNN merupakan sebuah algoritma perbaikan/turunan dari algoritma K - Nearest Neighbor (KNN) yang bertujuan untuk meningkatkan hasil kinerja dengan menambahkan sebuah perhitungan validasi.
+Algoritma MKNN merupakan sebuah algoritma perbaikan/turunan dari algoritma K - Nearest Neighbor (KNN) yang bertujuan untuk meningkatkan hasil kinerja dengan menambahkan sebuah perhitungan validasi dan wight voting.
 
 ## Reference Original Paper:
 * Hamid Parvin, Hosein Alizadeh and Behrouz Minaei-Bidgoli. 2008. "MKNN: Modified K-Nearest Neighbor". Proceedings of the World Congress on Engineering and Computer Science 2008
